@@ -6,6 +6,7 @@ master edit
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.xyz</groupId>
 	<artifactId>hello</artifactId>
+november edit#2
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins_pipeline_java_maven</name>
 	<description>For TTFHW of Jenkinsfile within a java project</description>
