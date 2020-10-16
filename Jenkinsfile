@@ -15,5 +15,5 @@ node {
    sh "${mvnHome}/bin/mvn -Dmaven.test.failure.ignore clean package"
    step([$class: 'JUnitResultArchiver', testResults: '**/target/surefire-reports/TEST-*.xml'])
 commit#5:wq!
-
+commit
 }
